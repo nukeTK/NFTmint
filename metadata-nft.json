@@ -1,0 +1,12 @@
+{ 
+  "description": "This NFT proves I've created and deployed my first ERC20 smart contract on Rinkeby with Alchemy Road to Web3",
+  "external_url": "Alchemy.com",
+  "image": "https://ipfs.filebase.io/ipfs/QmNUW9CAwKwKsDHYrnaSaeHHjMP85oiLxyEoVWhWhSYxyQ",
+  "name": "A cool NFT", 
+  "attributes": [
+    {
+      "name": "xbox", 
+      "type": "gamepad"
+    }
+]
+}
